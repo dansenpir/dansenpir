@@ -1,13 +1,13 @@
   <h1 align="center">👋 Hello there! I'm Danrley Senegalha Pires</h1><br>
 
-  <div style="display: flex">
+  <div align="center">
     <img height="180em"
       src="https://github-readme-stats.vercel.app/api?username=dansenpir&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true" />
     <img height="180em"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=dansenpir&layout=compact&langs_count=7&theme=shades-of-purple" />
   </div>
 
-  <div><br>
+  <div align="center"><br>
     <img align="center" alt="WINDOWS" height="30" width="40"
       src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/windows8/windows8-original.svg">
     <img align="center" alt="LINUX" height="30" width="40"
