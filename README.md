@@ -2,6 +2,6 @@
 
 -   :computer: I am working as **Analyst and Software Developer**
 -   :monocle_face: Interested in everything about **Software Design & Architecture and Design & Development Principles**
--   :seedling: Currently diving into the **Node.js** universe and studying **Java**
+-   :seedling: Currently diving into the **Node.js** universe
 -   :heart: Open Source Software
 -   :penguin: **Linux** ... it does infinite loops in 5 seconds.
