@@ -2,6 +2,6 @@
 
 -   :computer: I am working as **Back-end Developer**
 -   :monocle_face: Interested in everything about **Software Design & Architecture and Design & Development Principles**
--   :seedling: Currently diving into the **Java** universe
+-   :seedling: Currently diving into the **Golang** universe
 -   :heart: Open Source Software
 -   :penguin: **Linux** ... it does infinite loops in 5 seconds.
